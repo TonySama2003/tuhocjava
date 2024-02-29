@@ -1,5 +1,3 @@
-import javax.xml.transform.sax.SAXSource;
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class java11_7 {
