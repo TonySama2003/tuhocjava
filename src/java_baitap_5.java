@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class java11_3 {
+public class java_baitap_5 {
     //Tính BMI
     public static void main(String[] args) {
         Scanner cs = new Scanner(System.in);

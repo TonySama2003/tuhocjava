@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class java11_4 {
+public class java_baitap_6 {
     //Tính năm nhuận
     public static void main(String[] args) {
         Scanner cs = new Scanner(System.in);

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class java11_6 {
+public class java_baitap_8 {
     // Phương trình bậc 2
     public static void main(String[] args) {
         System.out.println("Nhập vào 3 giá trị a,b,c");

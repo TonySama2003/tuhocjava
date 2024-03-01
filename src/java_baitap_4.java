@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class java11_2 {
+public class java_baitap_4 {
     // Tìm 2 số khi biết tổng và hiệu
     public static void main(String[] args) {
         Scanner cs = new Scanner(System.in);

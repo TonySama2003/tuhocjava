@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class java17_1 {
+public class java_baitap_12 {
     // Viết số nguyên n bất kì và in ra n!
     public static void main(String[] args) {
         Scanner sc =new Scanner(System.in);

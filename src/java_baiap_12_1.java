@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class java17_1_1 {
+public class java_baiap_12_1 {
     public static void main(String[] args) {
         Scanner sc =new Scanner(System.in);
         System.out.println("Nhập vào 1 số bất kì :");

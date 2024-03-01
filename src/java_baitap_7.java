@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class java11_5 {
+public class java_baitap_7 {
     // Tính số ngày trong tháng
     public static void main(String[] args) {
         Scanner cs = new Scanner(System.in);

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class java11_7 {
+public class java_baitap_9 {
     public static void main(String[] args) {
         Scanner cs = new Scanner(System.in);
         System.out.println("Nhập vào số Tháng :");
